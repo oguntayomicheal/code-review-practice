@@ -1,0 +1,33 @@
+@media(max-width: 450px){
+    body{
+    background-color: hsl(0, 98%, 48%);
+    }
+    }
+#welcome {
+   background-image: url("https://lh3.googleusercontent.com/RaTDvtjof3B0PlgnJM-1Ffl0geLhu2R52YEJsaqHQw-sTOMPhnO6nBUl7N8pdLt1X52WD9I-zV-szOKu9xNBzn4NPgC3yn_y4l_qdKe05p_7PIkTsmZKYw-60D5Zj6EbeXZynuThgDpT8GsmGD7RAj0-s2OKDdvb_KPEPuZC7BC6GKqhQtLVETTOv-BY6lX0-IjDG0zhS5j6OKnSgR_Wv77BeiypcPFz06sKE7X94KLbjPUmucAxsMRAeJld-rUSTIf1jCB5j13TTqIvCVe6Q983OgQ2rcCLEHxcIE_9kHD2fuGCK5qaUdCTAuNlj3CVNTnbUdxjZBR7vdNojrFcvszyv3v8XK_bPgenbYqOp934su3_yLbunr5THNESe8Lrqd5Z_N2GfxE9x4l7roTDq_rIXsJUg1FhM8dbhUdklFYUEVU4D1rkkrEQ6VI4uiYGctzmt9kLzK0ULm3l3lYtYJUFkgnYg7YmMZi5w_W7YZLHf-QIQSp9zhqhEdYHZElRV1LjDsrnnFndgNR_VWKqcT25-SaOfLQratnbcddLrrilx8t4dzxqy4g-lqc0WCQQEOo4LqlPAK7CHVafFkju3l74tKr7jxahUtFKvIbFuMdAQnQYaJTCulL_fDlsv7LkE0AMhKIm2M1ZWpWMSevzIQK2cPiylYxpDo2-h1pfORfjRl6LxNtDbgXG3iwBt0Z1iFygISnpITQz4jGu76ikhE_dNfU9ZjX1oup8V1Gj3CqdIR7dU6a7jhlyI9HW3Q=w1083-h678-no?authuser=0");
+   background-size: cover;
+   background-position: center;
+   height: 200px;
+   text-align: center;
+   
+}
+.projects {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.center {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#navbar {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    background-color: bisque;
+}
+.Myprojects {
+    background-color: bisque;
+}
+img {
+    width: 1000px;
+  }
